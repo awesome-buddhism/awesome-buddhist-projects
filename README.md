@@ -29,7 +29,7 @@
 - [bophono](https://github.com/Esukhia/bophono): ibetan phonetics engine in Python. Maintained by Esukhia network. Phonetic analysis, pronunciation generation. Phonological processing, linguistic annotation.
 - [PaliNLP](https://github.com/daalft/PaliNLP): Morphological analyzer and generator for Pāli. Research-grade tool. Handles irregular declensions, morphological generation. Pāli linguistic analysis, grammatical processing.
 
-#### 11-12: Database Integration & Publication
+#### Phase 11-12: Database Integration & Publication
 - [digitalpalireader](https://github.com/digitalpalireader/digitalpalireader): Comprehensive Pāli study application. Tipitaka integration, multiple dictionaries, cross-platform. Text publication, scholarly access, educational tools
 - [buddhist-dictionary](https://github.com/alexamies/buddhist-dictionary): NTI Buddhist Text Reader with Chinese-English dictionary. Taishō Tripiṭaka integration, web-based reading. Text publication, dictionary integration, user interface
 - [lds-queries]( https://github.com/buda-base/lds-queries): BUDA Linked Data Server query system. Semantic queries, SPARQL endpoints, data integration. Database integration, semantic search, data access.
