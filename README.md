@@ -1,6 +1,6 @@
 # Awesome-Buddhist-Open-Sourse Projects
 - **♊ [Gemini](https://github.com/awesome-buddhism/awesome-buddhist-projects/tree/main?tab=readme-ov-file#gemini-1)**
-- **🤖 [Claude](https://github.com/awesome-buddhism/awesome-buddhist-projects/blob/main/README.md#claude)**
+- **🤖 [Claude](https://github.com/awesome-buddhism/awesome-buddhist-projects#-claude)**
 - **💬 (Chatgpt)** 
 - **🧠 (Perplexity)**
 
