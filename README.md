@@ -5,16 +5,16 @@
 - **🧠 (Perplexity)**
 
 ### Gemini
-#### Gathering Authentic Buddhist Sources
+#### Phase 1: Gathering Authentic Buddhist Sources
 - [buda-base](https://github.com/buda-base): (Github) Umbrella organization for BDRC's open-source projects, supporting digitization and preservation infrastructure. Robust ontology, Linked Open Data structure, various tools for managing Buddhist texts.
 - [OpenPecha/Toolkit / toolkit-v2](https://github.com/OpenPecha): (Github) Tools for creating, editing, and exporting texts and annotations, foundational for processing gathered sources. Comprehensive text management, annotation capabilities.
 
-#### Preserving as Audio and Images
+#### Phase 2: Preserving as Audio and Images
 - [buda-base/tibetan-ocr-app](https://github.com/buda-base/tibetan-ocr-app): Offline OCR application for Tibetan manuscripts and PDFs. Batch OCR, plain text/PageXML export, dewarping, Wylie conversion.
 - [buda-base/tibetan-ocr-training](https://github.com/buda-base/tibetan-ocr-training ): raining code for Tibetan OCR models. Supports development and improvement of Tibetan OCR accuracy.
 - [buda-base/buda-iiif-server](https://github.com/buda-base/buda-iiif-server): Image server based on IIIF standards for displaying digitized content. IIIF compliance for image sharing and interoperability.
 
-#### Converting into Searchable Digital Text
+#### Phase 3: Converting into Searchable Digital Text
 - [buda-base/tibetan-ocr-app](https://github.com/buda-base/tibetan-ocr-app ): Offline OCR application for Tibetan manuscripts and PDFs. Batch OCR, plain text/PageXML export, supports various Tibetan styles.
 - [GmGniap/Burmese-Table-OCR](https://github.com/GmGniap/Burmese-Table-OCR): Extracts text from tables in Burmese images using OpenCV and PyTesseract. Table detection, Burmese text extraction.
 - [nchanko/Myanmar-Ebook-OCR](https://github.com/nchanko/Myanmar-Ebook-OCR) : OCR tool using Tesseract for Myanmar-based text in PNGs and PDFs. Converts images/PDFs to TXT, supports Myanmar and English.
