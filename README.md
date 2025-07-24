@@ -5,6 +5,8 @@
 - **🧠 (Perplexity)**
 
 ### Gemini
+
+### Claude
 #### Phase 1-2 Collection Assessment & Physical **Preparation**
 - [BDRC Platform Components](https://github.com/buda-base): Buddhist Digital Resource Center's core technical infrastructure manages 28+ million pages across multiple Buddhist traditions. Collection management, metadata organization, preservation planning
 - [BDRC Public Digital Library]( http://library.bdrc.io): Main web interface for Buddhist Digital Archives. IIIF-compliant manuscript viewing, advanced search. Collection access, digital preservation interface
