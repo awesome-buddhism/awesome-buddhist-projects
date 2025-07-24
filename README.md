@@ -1,5 +1,5 @@
 # Awesome-Buddhist-Open-Sourse Projects
-- ### [Gemini](Gemini)
+- ### [Gemini]([Gemini](https://github.com/awesome-buddhism/awesome-buddhist-projects/tree/main?tab=readme-ov-file#gemini-1))
 - ### (Claude) 
 - ### (Chatgpt) 
 - ### (Perplexity)
