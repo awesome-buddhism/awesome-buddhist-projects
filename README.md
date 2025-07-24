@@ -4,7 +4,7 @@
 - **💬 (Chatgpt)** 
 - **🧠 (Perplexity)**
 
-### Gemini
+### ♊ Gemini
 #### Phase 1: Gathering Authentic Buddhist Sources
 - [buda-base](https://github.com/buda-base): (Github) Umbrella organization for BDRC's open-source projects, supporting digitization and preservation infrastructure. Robust ontology, Linked Open Data structure, various tools for managing Buddhist texts.
 - [OpenPecha/Toolkit / toolkit-v2](https://github.com/OpenPecha): (Github) Tools for creating, editing, and exporting texts and annotations, foundational for processing gathered sources. Comprehensive text management, annotation capabilities.
@@ -20,11 +20,52 @@
 - [nchanko/Myanmar-Ebook-OCR](https://github.com/nchanko/Myanmar-Ebook-OCR) : OCR tool using Tesseract for Myanmar-based text in PNGs and PDFs. Converts images/PDFs to TXT, supports Myanmar and English.
 - [OpenInstituteCambodia/KhmerOCR_Website](https://github.com/OpenInstituteCambodia/KhmerOCR_Website): Simple homepage for Khmer OCR with an API for image-to-text conversion. API for OCR, supports Khmer.
 
-####
-####
-####
-- []() 
-### Claude
+#### Phase 4: Preparing Reliable Editions
+- [Open Philology Editing Environment (OPEn)](https://openphilology.eu/): Web-based application for producing scholarly critical editions. Collation of multiple witnesses, lemma selection, variant management, no markup knowledge required.
+- [alexamies/buddhist-dictionary (NTI Buddhist Text Reader)](https://github.com/alexamies/buddhist-dictionary): Digital library for Chinese Buddhist texts with corpus management tools. Linguistic analysis, identification of specialist Buddhist terms, text comparison.
+  
+#### Phase 5:  Extracting Knowledge
+- [LinkedDataHub](https://atomgraph.github.io/LinkedDataHub/): Low-code application platform for RDF Knowledge Graphs. Manage data, create visualizations, build apps on KGs, import tabular data, create/import ontologies.
+- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph ): Curated list of Knowledge Graph related learning materials, databases, and tools. Comprehensive overview of KG technologies (databases, frameworks, visualization, construction).
+- [Protégé](https://protege.stanford.edu/): Free, open-source ontology editor and framework. Supports OWL 2 and RDF, builds domain models, manages complex relationships.
+  
+#### Phase 6: Producing Translations
+- [maskurahmed/Buddhist-AI-Translator](https://github.com/maskurahmed/Buddhist-AI-Translator): AI-powered translation tool for Buddhist texts. Supports Sanskrit, Pali, Tibetan; user-friendly web interface; community-driven.
+- [OpenPecha/pecha-tool-translation-editor](https://github.com/OpenPecha ):  Workstation designed for text translation. Provides an environment to facilitate the translation process.
+- [OpenPecha/garchen-rinpoche-speech-sig](https://github.com/OpenPecha):  AI-powered transcription and translation of teachings. Converts spoken content to text and translates it.
+
+#### Phase 7: Shaping Audience-Specific Adaptations
+- [SabaiJai AI Chatbot](https://www.researchgate.net/publication/392096645_SabaiJai_A_Buddhist_AI_Chatbot_Innovation_for_Stress_Resilience_in_Thailand's_Working-Aged_Population): AI-powered chatbot integrating Buddhist principles for stress resilience. Personalized user interactions, GPT-4o powered free chat, culturally sensitive.
+- [buda-base (BDRC GitHub Org)](https://github.com/buda-base ):  Provides underlying open-source infrastructure for managing digital Buddhist texts. Facilitates access to digital assets for adaptation into various formats.
+
+#### Phase 8: Developing Study and Practice Tools
+- [betmig/mettavoice](https://github.com/betmig/mettavoice): editation app blending Buddhist teachings with accessibility features. Sutta readings with synchronized TTS, customizable meditation timers, offline use.
+- [acesarjunior/MyShakyo](https://github.com/acesarjunior/MyShakyo): Zen Meditation Open-Source App. Zazen timer, supports Zen meditation and Shakyo practice.
+- [jahnvisahni31/BodhiBot](https://github.com/jahnvisahni31/BodhiBot): AI-powered chatbot for comprehensive Buddhist knowledge. Uses Llama2, Chainlit; provides insights on teachings, history, culture; source references.
+- [buddhist-uni/buddhist-uni.github.io (Open Buddhist University)](https://github.com/buddhist-uni/buddhist-uni.github.io): Platform offering free courses, books, and talks about Buddhism. University-quality, pan-sectarian, open-access resources for self-study.
+#### Phase 9: Packaging as Engaging Shareable Content
+- [eXist-db](http://exist-db.org/): Open-source native XML database for building web applications. One-step installation, full-stack XML web app development, browser-based IDE.
+- [uswds/public-sans](https://github.com/uswds/public-sans): Open-source typeface for text or display, suitable for digital reading. Adjusted vertical metrics, tailored lowercase l, regularized stroke weight, narrower characters.
+- [Jomolhari](https://fonts.google.com/specimen/Jomolhari): Free, Unicode compatible Tibetan script font. Designed for Tibetan and Dzongkha, inspired by Bhutanese manuscripts for Buddhist texts.
+- [EkType/Nithya-Ranjana](https://github.com/EkType/Nithya-Ranjana): Typeface based on calligraphic Ranjana script for Sanskrit and Nepal Bhasa. Supports 750+ unique conjuncts, 500+ character-specific matra forms, four stylistic sets.
+
+#### Phase 10:
+- [suttacentral/suttacentral](https://github.com/suttacentral/suttacentral): SuttaCentral website application with a JSON API. Real-time data access, Swagger API documentation, supports third-party integration.
+- [OpenPecha APIs](https://medium.com/@OpenPecha/about): Open repository of e-texts and annotations made publicly available through APIs. Facilitates collection, proofreading, and enrichment of e-texts via language technology and collaboration.
+- [buda-base (BDRC GitHub Org)](https://github.com/buda-base ): Provides underlying open-source infrastructure for managing digital Buddhist texts. Supports Linked Open Data architecture, facilitating data query and export for distribution.
+
+#### Phase 11:
+- [sinsniwal/PathPilot-recommendation-system](https://github.com/sinsniwal/PathPilot-recommendation-system ): Learning Path Recommendation System for personalized course recommendations. Considers enrollment data, student profiles, feedback, schedule; uses Python, scikit-learn, TensorFlow.
+- [gorse-io/gorse](https://github.com/gorse-io/gorse ): Universal open-source recommendation system engine. Multi-source recommendations, AutoML, distributed prediction, RESTful APIs.
+
+#### Phase 12:
+- [ngageoint/gamification-server](https://github.com/ngageoint/gamification-server): Framework for providing awards/points to users or teams. Customizable web interface for badges, configurable rules engine.
+- [isuru89/oasis](https://github.com/isuru89/oasis ): Event-driven gamification framework based on Redis. Supports points, badges, leaderboards, milestones, challenges, ratings; modular design.
+- [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful ): Free and open-source app for focus and well-being. Focus mode, screen time limits, detailed usage insights, progress tracking.
+- [BanDev/BuddhaQuotes](https://github.com/BanDev/BuddhaQuotes): Collaborative project for a Free and Open Source Buddha Quotes app for Android. Over 80 sourced quotes, add to lists/favorites, no ads/trackers, open-source.
+- [Saik0s/ask-vipassana](https://github.com/Saik0s/ask-vipassana): Mindful chatbot providing authentic Buddhist wisdom. Minimalist chat interface, optional meditation timer, source reference system, privacy-focused.
+  
+### 🤖 Claude
 #### Phase 1-2 Collection Assessment & Physical **Preparation**
 - [BDRC Platform Components](https://github.com/buda-base): Buddhist Digital Resource Center's core technical infrastructure manages 28+ million pages across multiple Buddhist traditions. Collection management, metadata organization, preservation planning
 - [BDRC Public Digital Library]( http://library.bdrc.io): Main web interface for Buddhist Digital Archives. IIIF-compliant manuscript viewing, advanced search. Collection access, digital preservation interface
