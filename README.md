@@ -49,16 +49,16 @@
 - [Jomolhari](https://fonts.google.com/specimen/Jomolhari): Free, Unicode compatible Tibetan script font. Designed for Tibetan and Dzongkha, inspired by Bhutanese manuscripts for Buddhist texts.
 - [EkType/Nithya-Ranjana](https://github.com/EkType/Nithya-Ranjana): Typeface based on calligraphic Ranjana script for Sanskrit and Nepal Bhasa. Supports 750+ unique conjuncts, 500+ character-specific matra forms, four stylistic sets.
 
-#### Phase 10:
+#### Phase 10: Deliver through Sharing Networks
 - [suttacentral/suttacentral](https://github.com/suttacentral/suttacentral): SuttaCentral website application with a JSON API. Real-time data access, Swagger API documentation, supports third-party integration.
 - [OpenPecha APIs](https://medium.com/@OpenPecha/about): Open repository of e-texts and annotations made publicly available through APIs. Facilitates collection, proofreading, and enrichment of e-texts via language technology and collaboration.
 - [buda-base (BDRC GitHub Org)](https://github.com/buda-base ): Provides underlying open-source infrastructure for managing digital Buddhist texts. Supports Linked Open Data architecture, facilitating data query and export for distribution.
 
-#### Phase 11:
+#### Phase 11: Serve Personalized Learning Paths
 - [sinsniwal/PathPilot-recommendation-system](https://github.com/sinsniwal/PathPilot-recommendation-system ): Learning Path Recommendation System for personalized course recommendations. Considers enrollment data, student profiles, feedback, schedule; uses Python, scikit-learn, TensorFlow.
 - [gorse-io/gorse](https://github.com/gorse-io/gorse ): Universal open-source recommendation system engine. Multi-source recommendations, AutoML, distributed prediction, RESTful APIs.
 
-#### Phase 12:
+#### Phase 12: Share Delight as Communities
 - [ngageoint/gamification-server](https://github.com/ngageoint/gamification-server): Framework for providing awards/points to users or teams. Customizable web interface for badges, configurable rules engine.
 - [isuru89/oasis](https://github.com/isuru89/oasis ): Event-driven gamification framework based on Redis. Supports points, badges, leaderboards, milestones, challenges, ratings; modular design.
 - [akaMrNagar/Mindful](https://github.com/akaMrNagar/Mindful ): Free and open-source app for focus and well-being. Focus mode, screen time limits, detailed usage insights, progress tracking.
