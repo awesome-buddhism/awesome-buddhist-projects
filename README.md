@@ -71,7 +71,6 @@
 - [Buddhist Digital Resource Center (BDRC)](https://github.com/buda-base): **Active**. An open digital library aggregating Buddhist texts from multiple traditions. It provides a unified catalog (works, authors, places) with Linked Open Data standards and stable IDs. Features like APIs for programmatic access, tools for cataloging, and GitHub-hosted components like ontology files. It integrates with Wikidata and IIIF for images and metadata
 - [Chinese Buddhist Electronic Text Association (CBETA)](https://github.com/cbeta-org/cbeta_xml_p5): **Active**. Digitizes and proofreads the Chinese Buddhist canon (Taishō Tripiṭaka and supplements) in TEI XML format. Features include a complete digital corpus, an XML schema for structured text, and free distribution for non-commercial use. Useful for building canonical text corpora and linguistic research.
 - [SuttaCentral (Bilara Data) ](https://github.com/suttacentral/bilara-data): Active. Hosts structured texts of the Pali Canon and parallel scriptures with translations and commentary in JSON format. Offers segment-based alignment, making it easy to cross-reference translations. Supports APIs for integration with apps or research pipelines.
-- [](): 
 
 #### Phase 2: Preserving as Audio and Images
 - [BDRC Scanning Tools & IIIF Viewer](https://github.com/buda-base): Active. Provides open workflows for scanning and preserving manuscripts. Uses IIIF standards for high-resolution image delivery. Includes Python-based crop and image-preprocessing scripts for Buddhist pechas.
@@ -107,9 +106,6 @@
 - [Digital Pāli Reader (DPR)](https://github.com/digitalpalireader/digitalpalireader): Active. Interactive study app for Pāli Canon texts. Provides clickable word lookup, dictionaries, and search functions. Open-source for customization or integration into other apps.
 - [OpenPecha Viewer & Botok](https://github.com/OpenPecha): Active. Tools for reading Tibetan texts with annotation and word segmentation. Supports custom dictionary pop-ups and analysis. Designed for integrated study and commentary.
 - [Mindfulness At the Computer](https://github.com/mindfulness-at-the-computer/mindfulness-at-the-computer): Active. Cross-platform mindfulness reminder app. Encourages short mindful breaks and breathing exercises. Easily adaptable for Buddhist practice contexts.
-- [Public Domain Jataka Tales](https://www.gutenberg.org/): Active. Digitized Buddhist fables and parables. Useful as raw content for children’s books, comics, or animations. Text available in multiple formats (ePub, HTML, TXT).
-- [LibriVox Audiobooks (Buddhist) ](https://archive.org/details/librivoxaudio): Active. Public domain audio readings of Buddhist stories and texts. Useful for podcasts or adapted learning content. Includes metadata and downloadable MP3/OGG formats.
-- [BuddhaNet Free E-Books](https://buddhanet.net/): Active. Offers hundreds of freely downloadable Buddhist e-books. Many focus on modern retellings or thematic teachings. Content can be remixed for different audience types.
 
 #### Phase 9: Packaging as Engaging Shareable Content
 - [Open Tibetan Fonts](https://github.com/OpenPecha/tibetan-fonts): Active. Collection of screen-optimized Tibetan fonts. Supports creating visually appealing and readable digital Dharma content. Licensed openly for free use and modification.
@@ -170,3 +166,4 @@
 - [pyewts (OpenPecha)]( https://github.com/OpenPecha/pyewts): Tibetan Unicode ↔ Wylie transliteration converters(Python). idirectional conversion, ACIP support. Text conversion, format standardization, encoding.
 - [ewts-converter (BDRC)](https://github.com/buda-base/ewts-converter): Tibetan Unicode ↔ Wylie transliteration converters(Java). idirectional conversion, ACIP support. Text conversion, format standardization, encoding.
 - [OCR4all](https://www.ocr4all.org/): Comprehensive OCR workflow for historical texts. Complete workflow, ground truth production, model training. End-to-end OCR workflow, quality assurance.
+
