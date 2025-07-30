@@ -2,7 +2,7 @@
 - **♊ [Gemini](https://github.com/awesome-buddhism/awesome-buddhist-projects/tree/main?tab=readme-ov-file#gemini-1)**
 - **💬 [Chatgpt](https://github.com/awesome-buddhism/awesome-buddhist-projects/blob/main/README.md#-chatgpt)**
 - **🤖 [Claude](https://github.com/awesome-buddhism/awesome-buddhist-projects#-claude)**
-- **🧠 (Perplexity)**
+- **🧠 [Perplexity]()**
 
 ### ♊ Gemini
 #### Phase 1: Gathering Authentic Buddhist Sources
@@ -126,7 +126,63 @@
 - [DhammaWheel Forum (phpBB)](https://www.phpbb.com/): Active. Community discussion platform for sharing experiences and peer learning. Open-source forum engine with Buddhist-specific categories. Supports moderation, search, and private messaging.
 - [Jitsi Meet Meditation Spaces](https://jitsi.org/): Active. Open-source video conferencing adapted for virtual meditation rooms. Supports group practice sessions and retreats. Lightweight and browser-based.
 - [Badgr Open Badge System](https://github.com/badgr-platform): Active. Digital recognition and achievement badges for practice milestones. Can be integrated with sangha study programs. Open-source and standards-compliant.
+
+### 🧠 Perplexity
+#### Phase 1: Gathering Authentic Buddhist Sources
+- [OpenPecha Toolkit](https://github.com/OpenPecha/toolkit): ython framework that lets Tibetan and Sanskrit ingest scans, create catalog records and map them to Wikidata; active, Apache-2.0. Supports batch pecha-package creation, automatic metadata validation, and a CLI/API used by the BUDA and 84000 teams
+- [Historical Social Network of Chinese Buddhism](https://github.com/mbingenheimer/ChineseBuddhism_SNA): Data repository providing social network data for the study of Chinese Buddhist history; active, open source. Combines raw data from various Gaoseng zhuan projects with Buddhist Person Name Authority, containing 18,000+ historical figures spanning two millennia.
+- [Audio Curation Package](https://github.com/sanskrit-coders/audio_curation): Python package for curating audio file collections with sync capabilities to archive.org audio items; active, open source. Provides automated documentation generation and supports various audio formats for Buddhist teachings preservation
+
+#### Phase 2: Preserving as Audio and Images
+- [Audacityeditor](https://github.com/audacity/audacity): used by monasteries to capture oral lineages; active, GPL-2. Handles high-resolution WAV, noise-reduction for noisy temples, and exports FLAC with embedded Dublin-Core metadata
+- [Titu STT](https://github.com/hishab-nlp/titu-stt): Open-source speech-to-text development project with focus on Bangla language; active, open source. Features FastConformer model trained on YT news/talkshow data, can be extended to other languages including Buddhist texts
+- [RealtimeSTT](https://github.com/KoljaB/RealtimeSTT): Robust, efficient, low-latency speech-to-text library with advanced voice activity detection; community-driven, MIT. Features wake word activation, instant transcription, and multiprocessing capabilities suitable for Buddhist audio preservation
+
+#### Phase 3: Converting into Searchable Digital Text
+- [BDRC Tibetan-OCR App](https://github.com/buda-base/tibetan-ocr-app): Desktop app (Go + Onnx) that turns page-images or PDFs into Unicode text; active, MIT. Includes pretrained U-chen/U-me models, dewarps wood-block pages, batch-processes entire volumes and outputs PageXML or plain UTF-8
+- [BDRC Tibetan OCR Training](https://github.com/buda-base/tibetan-ocr-training): Training code and datasets for Tibetan OCR models; active, open source. Provides ground truth data and training methodologies for improving Tibetan text recognition accuracy
+- [BDRC Tibetan OCR Evaluation ](https://github.com/buda-base/tibetan-ocr-evaluation): BDRC Tibetan OCR Evaluation – Evaluation framework for Tibetan OCR performance; active, open source. Benchmarks OCR accuracy against ground truth data for continuous model improvement
+
+#### Phase 4: Preparing Reliable Editions
+- [PyDurma ](https://github.com/OpenPecha/Pydurma): Collation engine that aligns multiple witnesses and produces machine-readable critical editions; active, MIT. Generates variant apparatus layers, supports version-control of edits, and exports TEI or OpenPecha layers for scholar review
+- [READ (Research Environment for Ancient Documents)](https://github.com/readsoftware/read): Software system for study of ancient texts and physical carriers; active, open source. Features close linking of images, transcriptions and analysis, handles multiple interpretations in parallel, produces paleographic charts and glossaries.
+- [Criticus](https://pypi.org/project/criticus/): Suite of tools for transcribing, collating and creating apparatus criticus; active, open source. Provides GUI applications connecting transcription, collation and analysis workflows with format conversion capabilities
+
+#### Phase 5:  Extracting Knowledge
+- [DharmaNexus](https://github.com/dharmamitra/dharmanexus):  FastAPI + ArangoDB stack that mines the four Buddhist canons for parallel passages and writes them as RDF; active, GPL-3. Ships a SPARQL endpoint, Sankey visualizer, and REST hooks for feeding learner apps
+- [Relationship Extractor NLP ](https://github.com/sadam-99/Relationship-Extractor-NLP): Deep learning framework for extracting relationships between entities; active, open source. Uses SDP-LSTM model with dependency parsing, applicable to Buddhist text entity relationship extraction.
+- [Information Extraction Chinese](https://github.com/crownpku/Information-Extraction-Chinese): Chinese information extraction toolkit including named entity recognition and relation extraction; active, open source. Focuses on state-of-art deep learning methods suitable for Chinese Buddhist texts
+
+#### Phase 6: Producing Translations
+- [CBETA Machine Translations](https://github.com/suttacentral/bilara):  Machine translated Buddhist texts from Chinese to English; active, CC BY 4.0. Includes DeepL and Linguae Dharmae model outputs covering major CBETA corpus sections.
+- [Buddhist AI Translator](https://github.com/maskurahmed/Buddhist-AI-Translator): Professional AI translation tool for Buddhist texts in Sanskrit, Pali, and Tibetan; active, open source. Features multi-language support, user-friendly interface, and community-driven development approach
+- [Buddhist AI Translator (Chinese) ](https://github.com/xr843/Buddhist-AI-Translator): Professional Buddhist AI translation platform combining modern AI with Buddhist knowledge; active, open source. Features 50+ Buddhist terminology database, multi-language support including Sanskrit and Tibetan
+
+#### Phase 7: Shaping Audience-Specific Adaptations
+- [Metta Voice](https://github.com/betmig/mettavoice): React/TypeScript meditation app blending ancient Buddhist teachings with modern accessibility; active, AGPL-3. Features synchronized TTS, customizable meditation timers, accessibility-first design, and offline privacy-focused operation
+- [Medito](https://github.com/meditohq/medito-app): Flutter meditation app repackaging classical meditation instructions for modern phones; active, AGPL-3. Offline packs, "mindfulness bell" scheduler, multi-language community recordings—zero ads, zero paywall
+
+#### Phase 8: Developing Study and Practice Tools
+- [Digital Pāli Dictionary (DPD)](https://github.com/digitalpalidictionary/dpd-db): SQL/JSON dataset plus GoldenDict front-end; active, CC BY-NC-SA. Provides 78k lemmas with morphology, root families and 1.9M inflections; CLI can quiz, parse or export to Anki
+- [Ask Vipassana](https://github.com/Saik0s/ask-vipassana): Next.js + n8n chatbot that builds personalized study plans from canonical Q&A; active, MIT. Uses context memory, in-chat meditation timer, and sources every answer to Nikāya references
+- [NTI Buddhist Text Reader](https://github.com/alexamies/buddhist-dictionary): Digital library for Chinese Buddhist texts with built-in text reader and dictionary; active, Apache 2.0. Features Chinese-English Buddhist dictionary, corpus management tools, and linguistic analysis capabilities
+
+#### Phase 9: Packaging as Engaging Shareable Content
+- [Pecha.org](https://github.com/OpenPecha/pecha.org): Vue/Nuxt frontend that packages layered texts into a Sefaria-style reader; active (v1.5). Responsive reading modes, text-to-speech hook, citation permalink API, and Reactivesearch for instant sharing
+- [SuttaCentral PWA](https://github.com/suttacentral/suttacentral): Progressive Web App that syncs whole canon for offline use; active, MIT. GraphQL-like JSON API, Arango full-text index, installable mobile shell, and automatic Cloudflare mirroring for low-bandwidth sanghas
+
+#### Phase 10: Deliver through Sharing Networks
+- [SuttaCentral Publications](https://github.com/suttacentral/publications): Tool for generating SuttaCentral books in HTML, EPUB, PDF formats; active, CC0. Automated publication pipeline for creating distributable Buddhist texts in multiple formats
+- [Awesome Theravada](https://github.com/johnjago/awesome-theravada): Curated list of resources for Theravada Buddhism; active, open source. Comprehensive collection of YouTube channels, audio recordings, and digital resources for Buddhist practice and study
+- [Ask Vipassana](https://github.com/Saik0s/ask-vipassana): AI-powered Vipassana guidance chatbot with personalized learning paths; active, MIT. Features meditation timer integration, contextual memory, source referencing, and privacy-focused local storage
+
+#### Phase 11: Serve Personalized Learning Paths
+- [Ask Vipassana](https://github.com/Saik0s/ask-vipassana):  AI-powered Vipassana guidance chatbot with personalized learning paths; active, MIT. Features meditation timer integration, contextual memory, source referencing, and privacy-focused local storage
   
+#### Phase 12: Share Delight as Communities
+- [NodeBB](https://nodebb.org): Real-time forum engine (Node.js) adopted by several online sanghas; active, GPL-3. Web-socket live chat, OAuth sangha-login, badge/gamification plug-ins, and granular mod-tools for wholesome community culture
+- [SuttaCentral Awesome](https://github.com/suttacentral/awesome): Collection of awesome projects built on SuttaCentral's resources; active, CC0. Community-contributed tools and applications extending SuttaCentral's Buddhist text platform.
+
 ### 🤖 Claude
 #### Phase 1-2 Collection Assessment & Physical **Preparation**
 - [BDRC Platform Components](https://github.com/buda-base): Buddhist Digital Resource Center's core technical infrastructure manages 28+ million pages across multiple Buddhist traditions. Collection management, metadata organization, preservation planning
